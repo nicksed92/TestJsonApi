@@ -1,0 +1,15 @@
+{
+  "result": {
+    "userAlliance": {
+      "users": [
+        {
+          "status": "Main person",
+          "name": "Admin",
+          "id": 1
+        }
+      ],
+      "name": "Top1",
+      "id": 456
+    }
+  }
+}
