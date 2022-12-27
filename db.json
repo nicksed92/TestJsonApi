@@ -1,11 +1,13 @@
 {
   "result": {
     "alliance": {
-      "users": {
-        "status": "Main person",
-        "name": "Admin",
-        "id": 1
-      },
+      "users": [
+        {
+          "status": "Main person",
+          "name": "Admin",
+          "id": 1
+        }
+      ],
       "name": "Top1",
       "id": 456
     }
