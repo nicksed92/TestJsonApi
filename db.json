@@ -1,5 +1,4 @@
 {
-  "result": {
     "result": {
       "userAlliance": {
         "users": [
@@ -13,5 +12,4 @@
         "id": 456
       }
     }
-  }
 }
