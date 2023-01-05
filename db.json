@@ -1,18 +1,22 @@
 {
   "result": {
-    "searchedAlliances": [
-      {
-        "name": "Название альянса1",
-        "id": 234,
-        "usersCount": 35,
-        "maxUsersCount": 50
-      },
-      {
-        "name": "Название альянса2",
-        "id": 145,
-        "usersCount": 100,
-        "maxUsersCount": 100
-      }
-    ]
+    "viewedAlliance": {
+      "name": "Название альянса",
+      "id": 23,
+      "usersCount": 50,
+      "maxUsersCount": 100,
+      "users": [
+        {
+          "status": "Статус игрока1",
+          "name": "Имя игрока1",
+          "id": 1
+        },
+        {
+          "status": "Статус игрока2",
+          "name": "Имя игрока2",
+          "id": 2
+        }
+      ]
+    }
   }
 }
