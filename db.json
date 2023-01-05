@@ -1,18 +1,30 @@
 {
   "result": {
     "userAlliance": {
-      "name": "ХАХАХАХАХАХАХАХА",
-      "id": 1,
-      "isActive": false,
+      "name": "Название альянса",
+      "id": 15,
+      "isActive": true,
       "location": [
         456,
         234
       ],
-      "titanium": 0,
-      "silicon": 0,
-      "antimatter": 0,
-      "usersCount": 1,
-      "maxUsersCount": 20
+      "titanium": 34000,
+      "silicon": 24555,
+      "antimatter": 10500,
+      "usersCount": 50,
+      "maxUsersCount": 100,
+      "users": [
+        {
+          "rank": "Ранг игрока1",
+          "name": "Имя игрока1",
+          "id": 455
+        },
+        {
+          "rank": "Ранг игрока2",
+          "name": "Имя игрока2",
+          "id": 342
+        }
+      ]
     }
   }
 }
