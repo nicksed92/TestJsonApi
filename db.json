@@ -1,20 +1,30 @@
 {
   "result": {
     "alliance": {
+      "name": "Название альянса",
+      "id": 15,
+      "isActive": true,
+      "location": [
+        456,
+        234
+      ],
+      "titanium": 34000,
+      "silicon": 24555,
+      "antimatter": 10500,
+      "usersCount": 50,
+      "maxUsersCount": 100,
       "users": [
         {
-          "status": "Main person",
-          "name": "Admin",
+          "rank": "Ранг игрока1",
+          "name": "Имя игрока1",
           "id": 1
         },
         {
-          "status": "holop",
-          "name": "Noob",
-          "id": 765
+          "rank": "Ранг игрока2",
+          "name": "Имя игрока2",
+          "id": 2
         }
-      ],
-      "name": "Top1",
-      "id": 456
+      ]
     }
   }
 }
