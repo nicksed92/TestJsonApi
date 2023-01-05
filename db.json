@@ -1,20 +1,28 @@
 {
   "result": {
-    "viewedAlliance": {
+    "userAlliance": {
       "name": "Название альянса",
-      "id": 23,
+      "id": 15,
+      "isActive": true,
+      "location": [
+        456,
+        234
+      ],
+      "titanium": 34000,
+      "silicon": 24555,
+      "antimatter": 10500,
       "usersCount": 50,
       "maxUsersCount": 100,
       "users": [
         {
-          "status": "Статус игрока1",
+          "rank": "Ранг игрока1",
           "name": "Имя игрока1",
-          "id": 1
+          "id": 455
         },
         {
-          "status": "Статус игрока2",
+          "rank": "Ранг игрока2",
           "name": "Имя игрока2",
-          "id": 2
+          "id": 342
         }
       ]
     }
