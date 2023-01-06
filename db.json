@@ -12,8 +12,64 @@
         "isActive": true,
         "name": "Space kings",
         "id": 145,
+        "usersCount": 22,
+        "maxUsersCount": 50
+      },
+      {
+        "isActive": false,
+        "name": "Snipers",
+        "id": 234,
+        "usersCount": 1,
+        "maxUsersCount": 15
+      },
+      {
+        "isActive": true,
+        "name": "Galaxy guardians",
+        "id": 145,
+        "usersCount": 45,
+        "maxUsersCount": 100
+      },
+      {
+        "isActive": false,
+        "name": "Космические рейнджеры",
+        "id": 234,
+        "usersCount": 1,
+        "maxUsersCount": 15
+      },
+      {
+        "isActive": true,
+        "name": "СССР",
+        "id": 145,
+        "usersCount": 10,
+        "maxUsersCount": 50
+      },
+      {
+        "isActive": true,
+        "name": "Галактика",
+        "id": 234,
+        "usersCount": 5,
+        "maxUsersCount": 15
+      },
+      {
+        "isActive": true,
+        "name": "Space stars",
+        "id": 145,
         "usersCount": 100,
         "maxUsersCount": 100
+      },
+      {
+        "isActive": false,
+        "name": "Адмиралы",
+        "id": 234,
+        "usersCount": 1,
+        "maxUsersCount": 15
+      },
+      {
+        "isActive": false,
+        "name": "Земляне",
+        "id": 145,
+        "usersCount": 1,
+        "maxUsersCount": 15
       }
     ]
   }
