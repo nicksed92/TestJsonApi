@@ -1,0 +1,18 @@
+{
+  "result": {
+    "searchedAlliances": [
+      {
+        "name": "Название альянса1",
+        "id": 234,
+        "usersCount": 35,
+        "maxUsersCount": 50
+      },
+      {
+        "name": "Название альянса2",
+        "id": 145,
+        "usersCount": 100,
+        "maxUsersCount": 100
+      }
+    ]
+  }
+}
