@@ -1,0 +1,18 @@
+{
+  "result": {
+    "userAlliance": {
+      "name": "Название альянса",
+      "id": 22,
+      "isActive": false,
+      "location": [
+        456,
+        234
+      ],
+      "titanium": 0,
+      "silicon": 0,
+      "antimatter": 0,
+      "usersCount": 1,
+      "maxUsersCount": 20
+    }
+  }
+}
