@@ -2,13 +2,15 @@
   "result": {
     "searchedAlliances": [
       {
-        "name": "Название альянса1",
+        "isActive": false,
+        "name": "Super Alliance",
         "id": 234,
-        "usersCount": 35,
-        "maxUsersCount": 50
+        "usersCount": 1,
+        "maxUsersCount": 15
       },
       {
-        "name": "Название альянса2",
+        "isActive": true,
+        "name": "Space kings",
         "id": 145,
         "usersCount": 100,
         "maxUsersCount": 100
