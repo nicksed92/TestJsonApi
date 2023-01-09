@@ -19,6 +19,20 @@
       "usersCount": 0,
       "maxUsersCount": 0
     },
+    "invitations": [
+      {
+        "name": "Ник игрока",
+        "id": 234,
+        "rating": 234234234234
+      }
+    ],
+    "joinRequests": [
+      {
+        "name": "Ник игрока",
+        "id": 234,
+        "rating": 234234234234
+      }
+    ],
     "searchedAlliances": [
       {
         "isActive": false,
