@@ -12,9 +12,9 @@
       "titaniumRequired": 3000000,
       "siliconRequired": 2500000,
       "antimatterRequired": 2000000,
-      "titanium": 0,
-      "silicon": 0,
-      "antimatter": 0,
+      "titanium": 800000,
+      "silicon": 500000,
+      "antimatter": 300000,
       "usersCount": 1,
       "maxUsersCount": 100,
       "users": [
