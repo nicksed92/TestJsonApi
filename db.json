@@ -1,35 +1,30 @@
 {
   "result": {
     "userAlliance": {
-      "name": "Название альянса",
+      "name": "",
       "level": 0,
-      "id": 15,
+      "id": 0,
       "isActive": false,
+      "rating": 0,
       "location": [
-        456,
-        234
+        0,
+        0
       ],
-      "titaniumRequired": 3000000,
-      "siliconRequired": 2500000,
-      "antimatterRequired": 2000000,
-      "titanium": 800000,
-      "silicon": 500000,
-      "antimatter": 300000,
-      "usersCount": 1,
-      "maxUsersCount": 100,
-      "users": [
-        {
-          "name": "Имя игрока1",
-          "id": 455,
-          "rank": "Ранг игрока1"
-        }
-      ]
+      "titaniumRequired": 0,
+      "siliconRequired": 0,
+      "antimatterRequired": 0,
+      "titanium": 0,
+      "silicon": 0,
+      "antimatter": 0,
+      "usersCount": 0,
+      "maxUsersCount": 0
     },
     "searchedAlliances": [
       {
         "isActive": false,
         "name": "Super Alliance",
         "id": 234,
+        "rating": 234234234234,
         "usersCount": 1,
         "maxUsersCount": 15
       },
@@ -37,6 +32,7 @@
         "isActive": true,
         "name": "Space kings",
         "id": 145,
+        "rating": 343453453453,
         "usersCount": 22,
         "maxUsersCount": 50
       },
@@ -44,6 +40,7 @@
         "isActive": false,
         "name": "Snipers",
         "id": 234,
+        "rating": 34543535435,
         "usersCount": 1,
         "maxUsersCount": 15
       },
@@ -51,6 +48,7 @@
         "isActive": true,
         "name": "Galaxy guardians",
         "id": 145,
+        "rating": 234234232222,
         "usersCount": 45,
         "maxUsersCount": 100
       },
@@ -58,6 +56,7 @@
         "isActive": false,
         "name": "Космические рейнджеры",
         "id": 234,
+        "rating": 123120983098,
         "usersCount": 1,
         "maxUsersCount": 15
       },
@@ -65,6 +64,7 @@
         "isActive": true,
         "name": "СССР",
         "id": 145,
+        "rating": 456456456456,
         "usersCount": 10,
         "maxUsersCount": 50
       },
@@ -72,6 +72,7 @@
         "isActive": true,
         "name": "Галактика",
         "id": 234,
+        "rating": 4564563364356,
         "usersCount": 5,
         "maxUsersCount": 15
       },
@@ -79,6 +80,7 @@
         "isActive": true,
         "name": "Space stars",
         "id": 145,
+        "rating": 6786786585685,
         "usersCount": 100,
         "maxUsersCount": 100
       },
@@ -86,6 +88,7 @@
         "isActive": false,
         "name": "Адмиралы",
         "id": 234,
+        "rating": 456454737457457,
         "usersCount": 1,
         "maxUsersCount": 15
       },
@@ -93,6 +96,7 @@
         "isActive": false,
         "name": "Земляне",
         "id": 145,
+        "rating": 4568678678678,
         "usersCount": 1,
         "maxUsersCount": 15
       }
