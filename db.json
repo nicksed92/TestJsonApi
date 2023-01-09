@@ -2,17 +2,33 @@
   "result": {
     "userAlliance": {
       "name": "Название альянса",
-      "id": 22,
-      "isActive": false,
+      "level": 1,
+      "id": 15,
+      "isActive": true,
       "location": [
         456,
         234
       ],
-      "titanium": 0,
-      "silicon": 0,
-      "antimatter": 0,
-      "usersCount": 1,
-      "maxUsersCount": 20
+      "titaniumRequired": 3000000,
+      "siliconRequired": 2500000,
+      "antimatterRequired": 2000000,
+      "titanium": 34000,
+      "silicon": 24555,
+      "antimatter": 10500,
+      "usersCount": 50,
+      "maxUsersCount": 100,
+      "users": [
+        {
+          "name": "Имя игрока1",
+          "id": 455,
+          "rank": "Ранг игрока1"
+        },
+        {
+          "name": "Имя игрока2",
+          "id": 235,
+          "rank": "Ранг игрока2"
+        }
+      ]
     },
     "searchedAlliances": [
       {
