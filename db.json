@@ -1,7 +1,7 @@
 {
   "result": {
     "userAlliance": {
-      "name": "ААААААААААА",
+      "name": "",
       "level": 0,
       "id": 0,
       "isActive": false,
@@ -10,12 +10,12 @@
         0,
         0
       ],
-      "titaniumRequired": 30000000,
-      "siliconRequired": 20000000,
-      "antimatterRequired": 1000000,
-      "titanium": 29000000,
-      "silicon": 19000000,
-      "antimatter": 1000000,
+      "titaniumRequired": 0,
+      "siliconRequired": 0,
+      "antimatterRequired": 0,
+      "titanium": 0,
+      "silicon": 0,
+      "antimatter": 0,
       "usersCount": 0,
       "maxUsersCount": 0
     },
