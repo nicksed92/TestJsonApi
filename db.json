@@ -45,6 +45,64 @@
           "rating": 23423423
         }
       ]
-    }
+    },
+    "userJoinRequests": [
+      {
+        "name": "Название альянса1",
+        "id": 455,
+        "rating": 324234234
+      },
+      {
+        "name": "Название альянса2",
+        "id": 235,
+        "rating": 5675644
+      }
+    ],
+    "searchedAlliances": [
+      {
+        "name": "Super Alliance",
+        "id": 234,
+        "isActive": true,
+        "isPublic": true,
+        "level": 0,
+        "rating": 324234234,
+        "usersCount": 1,
+        "maxUsersCount": 15
+      },
+      {
+        "name": "Space kings",
+        "id": 145,
+        "isActive": true,
+        "isPublic": false,
+        "level": 2,
+        "rating": 65444444,
+        "usersCount": 100,
+        "maxUsersCount": 100
+      }
+    ],
+    "invitationsToUsers": [
+      {
+        "name": "Ник приглашенного игрока1",
+        "rating": 234324234
+      },
+      {
+        "name": "Ник приглашенного игрока2",
+        "rating": 4435345343
+      }
+    ],
+    "invitationsFromUsers": [
+      {
+        "name": "Название альянса1",
+        "rating": 76685767,
+        "usersCount": 1,
+        "maxUsersCount": 15
+      },
+      {
+        "name": "Название альянса1",
+        "rating": 76685767,
+        "usersCount": 1,
+        "maxUsersCount": 15
+      }
+    ]
   }
 }
