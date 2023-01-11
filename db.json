@@ -94,21 +94,45 @@
     ],
     "invitationsFromUsers": [
       {
-        "name" : "Название альянса1",
+        "name": "Название альянса1",
         "id": 44,
-        "rating" : 76685767,
+        "rating": 76685767,
         "level": 1,
         "usersCount": 1,
         "maxUsersCount": 15
       },
       {
-        "name" : "Название альянса1",
+        "name": "Название альянса1",
         "id": 20,
-        "rating" : 76685767,
+        "rating": 76685767,
         "level": 2,
         "usersCount": 1,
         "maxUsersCount": 15
       }
-    ]
+    ],
+    "viewedAlliance": {
+      "name": "Название альянса",
+      "id": 23,
+      "isActive": true,
+      "isPublic": true,
+      "level": 1,
+      "rating": 1435632,
+      "usersCount": 50,
+      "maxUsersCount": 100,
+      "users": [
+        {
+          "name": "Имя игрока1",
+          "id": 150,
+          "rank": "Ранг игрока1",
+          "rating": 1212323
+        },
+        {
+          "name": "Имя игрока2",
+          "id": 46,
+          "rank": "Ранг игрока2",
+          "rating": 23423423
+        }
+      ]
+    }
   }
 }
