@@ -50,11 +50,13 @@
       {
         "name": "Название альянса1",
         "id": 455,
+        "level": 2,
         "rating": 324234234
       },
       {
         "name": "Название альянса2",
         "id": 235,
+        "level": 1,
         "rating": 5675644
       }
     ],
@@ -92,14 +94,18 @@
     ],
     "invitationsFromUsers": [
       {
-        "name": "Название альянса1",
-        "rating": 76685767,
+        "name" : "Название альянса1",
+        "id": 44,
+        "rating" : 76685767,
+        "level": 1,
         "usersCount": 1,
         "maxUsersCount": 15
       },
       {
-        "name": "Название альянса1",
-        "rating": 76685767,
+        "name" : "Название альянса1",
+        "id": 20,
+        "rating" : 76685767,
+        "level": 2,
         "usersCount": 1,
         "maxUsersCount": 15
       }
