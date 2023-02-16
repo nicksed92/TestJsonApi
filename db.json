@@ -3,8 +3,9 @@
     "userAlliance": {
       "name": "Название альянса",
       "id": 15,
+      "iconUrl": "ссылка на аватарку",
       "isActive": true,
-      "isPublic": true,
+      "isPrivate": false,
       "level": 1,
       "rating": 324234234,
       "usersCount": 50,
