@@ -3,7 +3,7 @@
     "userAlliance": {
       "name": "Название альянса",
       "id": 15,
-      "iconUrl": "ссылка на аватарку",
+      "iconUrl": "https://skypka1.com/assets/images/logo/logo1/google.png",
       "isActive": true,
       "isPrivate": false,
       "level": 1,
